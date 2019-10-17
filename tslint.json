@@ -9,6 +9,8 @@
     },
     "rules": {
         "no-console": false,
-        "jsx-no-lambda": false
+        "jsx-no-lambda": false,
+        "ordered-imports": false,
+        "object-literal-sort-keys": false
     }
 }
