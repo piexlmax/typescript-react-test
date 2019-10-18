@@ -1,3 +1,4 @@
+// 跟组件 路由在这里写
 import { Route, HashRouter as Router, Switch, Redirect } from 'react-router-dom'
 import Layout from 'src/view/layout'
 import * as React from 'react';
